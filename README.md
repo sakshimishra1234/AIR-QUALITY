@@ -1,1 +1,2 @@
-# AIR-QUALITY
+Air Quality Analysis in India...
+Analyzed PM2.5 pollution levels using real-world air quality data. Performed data cleaning, trend analysis, and visualizations to identify pollution patterns and temporal variations.
